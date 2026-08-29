@@ -30,7 +30,7 @@ jobs:
         run: |
           git config user.name 'github-actions[bot]'
           git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
-          git add -A historical-archive official-api official-api-manifest.json
+          git add -A .
           git diff --cached --quiet || git commit -m 'chore: archive official Meteor builds'
           git pull --rebase origin master
           git push origin HEAD:master
