@@ -41,7 +41,9 @@ for p,d,*_ in rows:
 # Stage only one copy for exact duplicates.
 seen=set()
 for p,d,*_ in rows:
-    if d.name in seen: continue
+    if d.name in seen:
+        p.unlink()
+        continue
     seen.add(d.name)
     shutil.move(str(p),str(d))
 for p in STAGE.glob('*.jar'):
