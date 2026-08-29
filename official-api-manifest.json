@@ -6,63 +6,63 @@
   "items": [
     {
       "minecraft_version": "1.21.10",
-      "filename": "historical-archive/meteor-client-1.21.10.jar",
+      "filename": "historical-archive/mc-1.21.10__meteor-api-1.21.10.jar",
       "bytes": 5226893,
       "sha256": "402b1609c2f52c71faa0188e54a11358f74e8d9a6f14769cf4dfe35abd154944",
       "source": "https://meteorclient.com/api/download?version=1.21.10"
     },
     {
       "minecraft_version": "1.21.11",
-      "filename": "historical-archive/meteor-client-1.21.11.jar",
+      "filename": "historical-archive/mc-1.21.11__meteor-api-1.21.11.jar",
       "bytes": 5342786,
       "sha256": "93390cfdb1030e47f116357ba421c90a9b1ca4832b6551c2dec1ade5eeb42e71",
       "source": "https://meteorclient.com/api/download?version=1.21.11"
     },
     {
       "minecraft_version": "1.21.4",
-      "filename": "historical-archive/meteor-client-1.21.4.jar",
+      "filename": "historical-archive/mc-1.21.4__meteor-api-1.21.4.jar",
       "bytes": 4592462,
       "sha256": "fe166e4ccc27de18c6537acc72851f432b1a4850858f1e8cac4c80240a72b4ef",
       "source": "https://meteorclient.com/api/download?version=1.21.4"
     },
     {
       "minecraft_version": "1.21.5",
-      "filename": "historical-archive/meteor-client-1.21.5.jar",
+      "filename": "historical-archive/mc-1.21.5__meteor-api-1.21.5.jar",
       "bytes": 4622925,
       "sha256": "309d3d61b7d3f9651c42c2f7dbaa41dabb3765fe1705bde263912bc712ebc44d",
       "source": "https://meteorclient.com/api/download?version=1.21.5"
     },
     {
       "minecraft_version": "1.21.6",
-      "filename": "historical-archive/meteor-client-1.21.6.jar",
+      "filename": "historical-archive/mc-1.21.6__meteor-api-1.21.6.jar",
       "bytes": 4648898,
       "sha256": "0996f410abaaea5b78d8e03d79c2e18c940d47922d1269ccc8aa4a643c959328",
       "source": "https://meteorclient.com/api/download?version=1.21.6"
     },
     {
       "minecraft_version": "1.21.7",
-      "filename": "historical-archive/meteor-client-1.21.7.jar",
+      "filename": "historical-archive/mc-1.21.7__meteor-api-1.21.7.jar",
       "bytes": 4648435,
       "sha256": "a0993fdd76dc2ac421f5143267ca8f2393584ee4b1e5b779018a8201b427c655",
       "source": "https://meteorclient.com/api/download?version=1.21.7"
     },
     {
       "minecraft_version": "1.21.8",
-      "filename": "historical-archive/meteor-client-1.21.8.jar",
+      "filename": "historical-archive/mc-1.21.8__meteor-api-1.21.8.jar",
       "bytes": 4720991,
       "sha256": "7359e847a8af925ed2ef3559e66b879069770ece7feb3847519c23949ee2d8cc",
       "source": "https://meteorclient.com/api/download?version=1.21.8"
     },
     {
       "minecraft_version": "26.1.2",
-      "filename": "historical-archive/meteor-client-26.1.2.jar",
+      "filename": "historical-archive/mc-26.1.2__meteor-api-26.1.2.jar",
       "bytes": 5338059,
       "sha256": "abd124d2d6b65b9cdc54fbf230d31817693386df0678f2953cfc97cfd3e1581f",
       "source": "https://meteorclient.com/api/download?version=26.1.2"
     },
     {
       "minecraft_version": "26.2",
-      "filename": "historical-archive/meteor-client-26.2.jar",
+      "filename": "historical-archive/mc-26.2__meteor-api-26.2.jar",
       "bytes": 5057217,
       "sha256": "5b53e0b0d7d4faa04dc7ba15ff60d622ef4eb2e608328d8b39d306707b2a72b9",
       "source": "https://meteorclient.com/api/download?version=26.2"
