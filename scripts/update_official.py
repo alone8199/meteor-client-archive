@@ -46,13 +46,20 @@ for version in sorted(versions):
     data = fetch(API.format(version))
     if len(data) < 1000 or not data.startswith(b'PK'):
         raise RuntimeError(f'Invalid JAR response for {version}: {len(data)} bytes')
-    target = STAGING / f'mc-{version}__meteor-api-{version}.jar'
+    target = STAGING / f'download-{version}.jar'
     target.write_bytes(data)
     with ZipFile(target) as z:
         bad = z.testzip()
         if bad:
             raise RuntimeError(f'Corrupt JAR {version}: {bad}')
-    records.append({'minecraft_version': version, 'filename': f'historical-archive/{target.name}', 'bytes': len(data), 'sha256': hashlib.sha256(data).hexdigest(), 'source': API.format(version)})
+        try:
+            fabric = json.loads(z.read('fabric.mod.json'))
+            meteor_version = str(fabric['version'])
+        except Exception as exc:
+            raise RuntimeError(f'Cannot read Meteor version from {version}: {exc}')
+    final_target = STAGING / f'mc-{version}__meteor-{meteor_version}.jar'
+    target.replace(final_target)
+    records.append({'minecraft_version': version, 'meteor_version': meteor_version, 'filename': f'historical-archive/{final_target.name}', 'bytes': len(data), 'sha256': hashlib.sha256(data).hexdigest(), 'source': API.format(version)})
 
 # Archive this month's API results. Existing same-name files are refreshed in place;
 # newly discovered versions are added. Then remove the API staging directory entirely.

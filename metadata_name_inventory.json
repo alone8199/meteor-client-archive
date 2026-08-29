@@ -1,0 +1,639 @@
+[
+  {
+    "filename": "mc-1.14.4__meteor-0.1.0.jar",
+    "minecraft_version": "1.14.4",
+    "meteor_version": "0.1.0",
+    "mod_id": "meteor-client",
+    "sha256": "39d231ac674d6c6df24e6e384b423e62c429fc2cac3dcf5173d45f4aeac38d4f"
+  },
+  {
+    "filename": "mc-1.14.4__meteor-0.1.1.jar",
+    "minecraft_version": "1.14.4",
+    "meteor_version": "0.1.1",
+    "mod_id": "meteor-client",
+    "sha256": "eee8911176cb8a03aa89a41fd5ed69c4e9dbc1248ffab2e96d7522a61b377304"
+  },
+  {
+    "filename": "mc-1.14.4__meteor-0.1.2.jar",
+    "minecraft_version": "1.14.4",
+    "meteor_version": "0.1.2",
+    "mod_id": "meteor-client",
+    "sha256": "42b0b277fa8b855ec3fa677fcaf5e6f065d89a1300fb4601748675c8cfb2bf00"
+  },
+  {
+    "filename": "mc-1.14.4__meteor-0.1.3.jar",
+    "minecraft_version": "1.14.4",
+    "meteor_version": "0.1.3",
+    "mod_id": "meteor-client",
+    "sha256": "959f5262b5af7cfb5fa150adab6317da5a87db2e2a1ed06a4a35b5816623f5f8"
+  },
+  {
+    "filename": "mc-1.14.4__meteor-0.1.4.jar",
+    "minecraft_version": "1.14.4",
+    "meteor_version": "0.1.4",
+    "mod_id": "meteor-client",
+    "sha256": "7d379a51633003b00607bc881f512251c761924a0a34a6295bf622de0b5c5d13"
+  },
+  {
+    "filename": "mc-1.14.4__meteor-0.1.5.jar",
+    "minecraft_version": "1.14.4",
+    "meteor_version": "0.1.5",
+    "mod_id": "meteor-client",
+    "sha256": "5cbdc1b96e79a570caf5fe52b6f940984aa474048b14fa1b4681a9ccaa557d02"
+  },
+  {
+    "filename": "mc-1.14.4__meteor-0.1.6.jar",
+    "minecraft_version": "1.14.4",
+    "meteor_version": "0.1.6",
+    "mod_id": "meteor-client",
+    "sha256": "37c384d439ae4f306046429c8e9f68736239529cdd2464fcf23ec4f4a955e2d9"
+  },
+  {
+    "filename": "mc-1.14.4__meteor-0.1.7.jar",
+    "minecraft_version": "1.14.4",
+    "meteor_version": "0.1.7",
+    "mod_id": "meteor-client",
+    "sha256": "ffe0b3b75f50b2f2316169cf041a9a24e107e57a048e28c0ec9bf816367f07b5"
+  },
+  {
+    "filename": "mc-1.14.4__meteor-0.1.9.jar",
+    "minecraft_version": "1.14.4",
+    "meteor_version": "0.1.9",
+    "mod_id": "meteor-client",
+    "sha256": "768282cbda08a38b71bae3e9ff210c2ffd095f14db0697865e40f5017d88c87d"
+  },
+  {
+    "filename": "mc-1.14.4__meteor-0.2.1.jar",
+    "minecraft_version": "1.14.4",
+    "meteor_version": "0.2.1",
+    "mod_id": "meteor-client",
+    "sha256": "47047b1982cf7193e6cd139c5f14e656744ff43125e2a1c98d179bac10825ff0"
+  },
+  {
+    "filename": "mc-1.14.4__meteor-0.2.3.jar",
+    "minecraft_version": "1.14.4",
+    "meteor_version": "0.2.3",
+    "mod_id": "meteor-client",
+    "sha256": "313bd01dd9874e5de2c33e5adbbcce41799f442fb236b12d74b6828d5fb89000"
+  },
+  {
+    "filename": "mc-1.14.4__meteor-0.2.8.jar",
+    "minecraft_version": "1.14.4",
+    "meteor_version": "0.2.8",
+    "mod_id": "meteor-client",
+    "sha256": "1d81ee7e0bb0e909fc32bc55ebb2b422876336f61f0b9d7191f089ef2380cd2f"
+  },
+  {
+    "filename": "mc-1.15.2__meteor-0.1.7.jar",
+    "minecraft_version": "1.15.2",
+    "meteor_version": "0.1.7",
+    "mod_id": "meteor-client",
+    "sha256": "ce4c401ef3ce9be4772955ea4d1c4c3c1af718994ddf0205a8e4d967e6510829"
+  },
+  {
+    "filename": "mc-1.14.4__meteor-0.1.8.jar",
+    "minecraft_version": "1.14.4",
+    "meteor_version": "0.1.8",
+    "mod_id": "meteor-client",
+    "sha256": "5f9e0b94bd627c8001f6b7e63a1eadc962d4d0f6aaa53bcaed4467f9d5debdab"
+  },
+  {
+    "filename": "mc-1.15.2__meteor-0.1.8.jar",
+    "minecraft_version": "1.15.2",
+    "meteor_version": "0.1.8",
+    "mod_id": "meteor-client",
+    "sha256": "080842a51217a291133a576877cf6c75cc8a8f4b4b9c29685a54108cedde9c08"
+  },
+  {
+    "filename": "mc-1.15.2__meteor-0.1.9.jar",
+    "minecraft_version": "1.15.2",
+    "meteor_version": "0.1.9",
+    "mod_id": "meteor-client",
+    "sha256": "d924c20b63d202cb853071c65d8c368057c63f8872d4c875c0a865a106f04328"
+  },
+  {
+    "filename": "mc-1.14.4__meteor-0.2.0.jar",
+    "minecraft_version": "1.14.4",
+    "meteor_version": "0.2.0",
+    "mod_id": "meteor-client",
+    "sha256": "fc615fa4ee594435cf6ceafdd9245effd329d1b87ecb56be65b18b2b0ec7340d"
+  },
+  {
+    "filename": "mc-1.15.2__meteor-0.2.0.jar",
+    "minecraft_version": "1.15.2",
+    "meteor_version": "0.2.0",
+    "mod_id": "meteor-client",
+    "sha256": "727d95e57b5004494f5a16b8b7e99e8de42ec649f47de5df64b46fda1b9ba3d8"
+  },
+  {
+    "filename": "mc-1.15.2__meteor-0.2.1.jar",
+    "minecraft_version": "1.15.2",
+    "meteor_version": "0.2.1",
+    "mod_id": "meteor-client",
+    "sha256": "da4f03d372012f6999e830f80826bceae21a7cf5c161c4eb29ca1efbaff59e62"
+  },
+  {
+    "filename": "mc-1.14.4__meteor-0.2.2.jar",
+    "minecraft_version": "1.14.4",
+    "meteor_version": "0.2.2",
+    "mod_id": "meteor-client",
+    "sha256": "401b34c008f0bb594c5b6be72883f61f6d8431311ec383ac2e8cfc97920b3a9d"
+  },
+  {
+    "filename": "mc-1.15.2__meteor-0.2.2.jar",
+    "minecraft_version": "1.15.2",
+    "meteor_version": "0.2.2",
+    "mod_id": "meteor-client",
+    "sha256": "9764e81170772d657cf0919928ed7ae3204368b290164fa6e6454cdd6754abf1"
+  },
+  {
+    "filename": "mc-1.15.2__meteor-0.2.3.jar",
+    "minecraft_version": "1.15.2",
+    "meteor_version": "0.2.3",
+    "mod_id": "meteor-client",
+    "sha256": "f90bd7f6d0d61b0db0b8fc5f8628a21ca1bf8a0a8d64fee4d12acd891a726c07"
+  },
+  {
+    "filename": "mc-1.14.4__meteor-0.2.4.jar",
+    "minecraft_version": "1.14.4",
+    "meteor_version": "0.2.4",
+    "mod_id": "meteor-client",
+    "sha256": "96d979d7f13a6c3cd140c8810e9a568b4bdfdd0560049e816cad0fcb0be955cf"
+  },
+  {
+    "filename": "mc-1.15.2__meteor-0.2.4.jar",
+    "minecraft_version": "1.15.2",
+    "meteor_version": "0.2.4",
+    "mod_id": "meteor-client",
+    "sha256": "97897772cedb2a976a944967a74aaa9cbbf91d0970aa7a1d573e2f0f9dead980"
+  },
+  {
+    "filename": "mc-1.15.2__meteor-0.2.6.jar",
+    "minecraft_version": "1.15.2",
+    "meteor_version": "0.2.6",
+    "mod_id": "meteor-client",
+    "sha256": "631597f1805f0298e9dcb7ac1bd5cad8e999a102c513785944e469d292e9dd00"
+  },
+  {
+    "filename": "mc-1.16.1__meteor-0.3.0.1.jar",
+    "minecraft_version": "1.16.1",
+    "meteor_version": "0.3.0.1",
+    "mod_id": "meteor-client",
+    "sha256": "133119083e5a4bcd9d7dad8b3be2fefa0549fe392d3ab5371689eecf05705a19"
+  },
+  {
+    "filename": "mc-1.16.x__meteor-0.3.6.jar",
+    "minecraft_version": "1.16.x",
+    "meteor_version": "0.3.6",
+    "mod_id": "meteor-client",
+    "sha256": "47485303cefd18987c1131255af1e2009bee878e738c4c104405de50db1b6441"
+  },
+  {
+    "filename": "mc-1.16.x__meteor-0.3.8.jar",
+    "minecraft_version": "1.16.x",
+    "meteor_version": "0.3.8",
+    "mod_id": "meteor-client",
+    "sha256": "2984c152795250266694fab7c64a9a55dd8bd7aadb8b80dda2e404c3ca9bdebe"
+  },
+  {
+    "filename": "mc-1.16.x__meteor-0.4.2.jar",
+    "minecraft_version": "1.16.x",
+    "meteor_version": "0.4.2",
+    "mod_id": "meteor-client",
+    "sha256": "bad25b93c3f39bac1f40599303cc1f793dd4bf3b93503589900797a5f1ed87f4"
+  },
+  {
+    "filename": "mc-1.16.x__meteor-0.4.4.jar",
+    "minecraft_version": "1.16.x",
+    "meteor_version": "0.4.4",
+    "mod_id": "meteor-client",
+    "sha256": "f17457cb265e6b52cb6ba152acd55169a274003bdf03000a2436d68f7a7418d7"
+  },
+  {
+    "filename": "mc-1.17.1__meteor-0.4.5.jar",
+    "minecraft_version": "1.17.1",
+    "meteor_version": "0.4.5",
+    "mod_id": "meteor-client",
+    "sha256": "aec1c75b9620b180fb31db7ed6be1566f9787201b9441d6953676a3076f30a7a"
+  },
+  {
+    "filename": "mc-1.17.1__meteor-0.4.6-1180.jar",
+    "minecraft_version": "1.17.1",
+    "meteor_version": "0.4.6-1180",
+    "mod_id": "meteor-client",
+    "sha256": "e50d7cd5c128b8824a7bbaef08fecdb69cafb21ec0789012a8daa6db1690c4d0"
+  },
+  {
+    "filename": "mc-1.17.1__meteor-0.4.6.jar",
+    "minecraft_version": "1.17.1",
+    "meteor_version": "0.4.6",
+    "mod_id": "meteor-client",
+    "sha256": "94eb25ec4e6edc72c097744a29bd33914182db6cf22a9c56d1aa5ff42ae2cec5"
+  },
+  {
+    "filename": "mc-1.18.1__meteor-0.4.7-1373.jar",
+    "minecraft_version": "1.18.1",
+    "meteor_version": "0.4.7-1373",
+    "mod_id": "meteor-client",
+    "sha256": "0b8c1a92032c6232af387852d17424e98ef3cbf94443de81380386b1cf98e8d9"
+  },
+  {
+    "filename": "mc-1.18.1__meteor-0.4.7-1381.jar",
+    "minecraft_version": "1.18.1",
+    "meteor_version": "0.4.7-1381",
+    "mod_id": "meteor-client",
+    "sha256": "60b99ead8c9707c06876f43d738b9825665e1e783cb273e79b7f5d47dfc6f5a8"
+  },
+  {
+    "filename": "mc-1.18.1__meteor-0.4.7-1384.jar",
+    "minecraft_version": "1.18.1",
+    "meteor_version": "0.4.7-1384",
+    "mod_id": "meteor-client",
+    "sha256": "32ace616886e346196ff26268875381819226420d1f282ff36987b98dc7082fb"
+  },
+  {
+    "filename": "mc-1.18.1__meteor-0.4.7-1388.jar",
+    "minecraft_version": "1.18.1",
+    "meteor_version": "0.4.7-1388",
+    "mod_id": "meteor-client",
+    "sha256": "02155d071a8f7b4d383de2cdbd9a90749207d924fa5b71f1239c301a3a3c0dbb"
+  },
+  {
+    "filename": "mc-1.18.1__meteor-0.4.7-1396.jar",
+    "minecraft_version": "1.18.1",
+    "meteor_version": "0.4.7-1396",
+    "mod_id": "meteor-client",
+    "sha256": "f7ca6096c29bd4846e7c757f57c9d6de43ad16eb6bddfbdd07114354049ce5ac"
+  },
+  {
+    "filename": "mc-1.18.1__meteor-0.4.7-1405.jar",
+    "minecraft_version": "1.18.1",
+    "meteor_version": "0.4.7-1405",
+    "mod_id": "meteor-client",
+    "sha256": "c9d786e3f974c8c72f6a5ffdf768d95e0735da402b6179662772d82d3d1099c9"
+  },
+  {
+    "filename": "mc-1.18.1__meteor-0.4.7.jar",
+    "minecraft_version": "1.18.1",
+    "meteor_version": "0.4.7",
+    "mod_id": "meteor-client",
+    "sha256": "cd20bbe5eefc5699de703ecfa886266c4f3f7e1965660b54ac1b78904a0f7fd8"
+  },
+  {
+    "filename": "mc-1.18.2__meteor-0.4.8-1427.jar",
+    "minecraft_version": "1.18.2",
+    "meteor_version": "0.4.8-1427",
+    "mod_id": "meteor-client",
+    "sha256": "7e982d83e99f628e2dfdfa959b327ffeb34a01616146c2e89d980d642178a999"
+  },
+  {
+    "filename": "mc-1.18.2__meteor-0.4.8-1441.jar",
+    "minecraft_version": "1.18.2",
+    "meteor_version": "0.4.8-1441",
+    "mod_id": "meteor-client",
+    "sha256": "c12bb0a9cbbe9d7b39cc78e5776520e5228a4a23df3ccf932d5787ab2d1d718f"
+  },
+  {
+    "filename": "mc-1.18.2__meteor-0.4.8.jar",
+    "minecraft_version": "1.18.2",
+    "meteor_version": "0.4.8",
+    "mod_id": "meteor-client",
+    "sha256": "1caf4eb63aec70054bed83ca36ee94607d31cfbdd9c75be0061ac5dfc9eb012e"
+  },
+  {
+    "filename": "mc-1.18.2__meteor-0.4.9.jar",
+    "minecraft_version": "1.18.2",
+    "meteor_version": "0.4.9",
+    "mod_id": "meteor-client",
+    "sha256": "73f3ac49940f2f4b55c2550ad52aad8042dc2dac1d2e9c3e791432d875acc73e"
+  },
+  {
+    "filename": "mc-1.19.2__meteor-0.5.1-1571.jar",
+    "minecraft_version": "1.19.2",
+    "meteor_version": "0.5.1-1571",
+    "mod_id": "meteor-client",
+    "sha256": "ccec88b2546fc9bf025799886e708ba2093327b37c74d1fc7d0cc49a56f55663"
+  },
+  {
+    "filename": "mc-1.19.2__meteor-0.5.1-1690.jar",
+    "minecraft_version": "1.19.2",
+    "meteor_version": "0.5.1-1690",
+    "mod_id": "meteor-client",
+    "sha256": "c47871d5ab310c21057f2266a5a5ed6d5813cfa520c7a56a266fd1c0625f98bd"
+  },
+  {
+    "filename": "mc-1.19.2__meteor-0.5.1.jar",
+    "minecraft_version": "1.19.2",
+    "meteor_version": "0.5.1",
+    "mod_id": "meteor-client",
+    "sha256": "eb152dd8a2d64d7c5af25a6bbe973a093c283e0e0abbd28c6639029d02581fdd"
+  },
+  {
+    "filename": "mc-1.19.3__meteor-0.5.2.jar",
+    "minecraft_version": "1.19.3",
+    "meteor_version": "0.5.2",
+    "mod_id": "meteor-client",
+    "sha256": "159e0bd289d858e076b2a5f7a15c5844833731327d436458ae2090c3e7be90e4"
+  },
+  {
+    "filename": "mc-1.19.4__meteor-0.5.3.jar",
+    "minecraft_version": "1.19.4",
+    "meteor_version": "0.5.3",
+    "mod_id": "meteor-client",
+    "sha256": "41eaf9830352b6dd0fdbe9e8007445ff90b96fccc44005db84d5200f8a7ce0e9"
+  },
+  {
+    "filename": "mc-1.19__meteor-0.5.0-1562.jar",
+    "minecraft_version": "1.19",
+    "meteor_version": "0.5.0-1562",
+    "mod_id": "meteor-client",
+    "sha256": "224890032c41539780513e0d9c4c77c137a3f8e7bf3825d6a50276e7af49bb9d"
+  },
+  {
+    "filename": "mc-1.19__meteor-0.5.0.jar",
+    "minecraft_version": "1.19",
+    "meteor_version": "0.5.0",
+    "mod_id": "meteor-client",
+    "sha256": "528047bd3be7051a8d34316febd6903b30e0ef537fa26d5cc3dfed1ea24183ba"
+  },
+  {
+    "filename": "mc-1.20-1.20.1__meteor-0.5.4.jar",
+    "minecraft_version": "1.20-1.20.1",
+    "meteor_version": "0.5.4",
+    "mod_id": "meteor-client",
+    "sha256": "90d558f4d32bf96cc5464b869bc69c0f677a1be62e94cb897acf117c0bf82b97"
+  },
+  {
+    "filename": "mc-1.20.2__meteor-0.5.5-1964.jar",
+    "minecraft_version": "1.20.2",
+    "meteor_version": "0.5.5-1964",
+    "mod_id": "meteor-client",
+    "sha256": "fa3187b0cfd482237aa3c74ea1fa1392e6d08d5612d98f421e8491e7dc026920"
+  },
+  {
+    "filename": "mc-1.20.2__meteor-0.5.5.jar",
+    "minecraft_version": "1.20.2",
+    "meteor_version": "0.5.5",
+    "mod_id": "meteor-client",
+    "sha256": "f957dd8364dfc66794b08f2bb3ebdceec822950dae67fb588e8daf7f4a9b7890"
+  },
+  {
+    "filename": "mc-1.20.4__meteor-0.5.6-1985.jar",
+    "minecraft_version": "1.20.4",
+    "meteor_version": "0.5.6-1985",
+    "mod_id": "meteor-client",
+    "sha256": "94353e399aec04028694f843b71e363ddab9e0532189288e4210eb2afe8c3fa4"
+  },
+  {
+    "filename": "mc-1.20.4__meteor-0.5.6-1993.jar",
+    "minecraft_version": "1.20.4",
+    "meteor_version": "0.5.6-1993",
+    "mod_id": "meteor-client",
+    "sha256": "c8c0431785aaa3002323e43991e8884d6e426ba82ce598921649582765b57673"
+  },
+  {
+    "filename": "mc-1.20.4__meteor-0.5.6-1995.jar",
+    "minecraft_version": "1.20.4",
+    "meteor_version": "0.5.6-1995",
+    "mod_id": "meteor-client",
+    "sha256": "a0bc3020c17b42875dd8a04b813d5fe56844004de9ac864f83b2c9249c6e0a6b"
+  },
+  {
+    "filename": "mc-1.20.4__meteor-0.5.6-1996.jar",
+    "minecraft_version": "1.20.4",
+    "meteor_version": "0.5.6-1996",
+    "mod_id": "meteor-client",
+    "sha256": "db1aa6cf6ef96759ed544e4dea658e2b82cd66ba9e9c590102f0dd40bf886d48"
+  },
+  {
+    "filename": "mc-1.20.4__meteor-0.5.6-1997.jar",
+    "minecraft_version": "1.20.4",
+    "meteor_version": "0.5.6-1997",
+    "mod_id": "meteor-client",
+    "sha256": "359b7b6206796d83f7bb4cae4c023e6594e70c5e79716103e4e3a7786208e2cb"
+  },
+  {
+    "filename": "mc-1.20.4__meteor-0.5.6-1998.jar",
+    "minecraft_version": "1.20.4",
+    "meteor_version": "0.5.6-1998",
+    "mod_id": "meteor-client",
+    "sha256": "59fef6fa315c965492e0557a5b94b46aec594d8d0a46805b02ccf1fa7d4e3a7b"
+  },
+  {
+    "filename": "mc-1.20.4__meteor-0.5.6-1999.jar",
+    "minecraft_version": "1.20.4",
+    "meteor_version": "0.5.6-1999",
+    "mod_id": "meteor-client",
+    "sha256": "d474ea895c1a0bbf53ab20f4196dcf4c1adbdfecb82abfb93a849d3b056fd88e"
+  },
+  {
+    "filename": "mc-1.20.4__meteor-0.5.6-2001.jar",
+    "minecraft_version": "1.20.4",
+    "meteor_version": "0.5.6-2001",
+    "mod_id": "meteor-client",
+    "sha256": "090b0a4114881171401ca08f45e40bc73b3f6318030a60c7d469e7795509e112"
+  },
+  {
+    "filename": "mc-1.20.4__meteor-0.5.6-2002.jar",
+    "minecraft_version": "1.20.4",
+    "meteor_version": "0.5.6-2002",
+    "mod_id": "meteor-client",
+    "sha256": "ddee284a6e79add0402164a45ad059071360b6f6aced2a4d3c55bc00f933bf8b"
+  },
+  {
+    "filename": "mc-1.20.4__meteor-0.5.6-2003.jar",
+    "minecraft_version": "1.20.4",
+    "meteor_version": "0.5.6-2003",
+    "mod_id": "meteor-client",
+    "sha256": "72f03f51bad0543bb15ce32736f26f3b886a2002c099fd853e22a230d10d3fb8"
+  },
+  {
+    "filename": "mc-1.20.4__meteor-0.5.6-2005.jar",
+    "minecraft_version": "1.20.4",
+    "meteor_version": "0.5.6-2005",
+    "mod_id": "meteor-client",
+    "sha256": "6bcd07af024e45810011118b9596e34c1f35f9425b3a283737b7880bd9da9881"
+  },
+  {
+    "filename": "mc-1.20.4__meteor-0.5.6-2007.jar",
+    "minecraft_version": "1.20.4",
+    "meteor_version": "0.5.6-2007",
+    "mod_id": "meteor-client",
+    "sha256": "02d59a9ae6a19ef1f610736910f6d8e69591d82d11b10a56aedcabc52cd9324d"
+  },
+  {
+    "filename": "mc-1.20.4__meteor-0.5.6-2008.jar",
+    "minecraft_version": "1.20.4",
+    "meteor_version": "0.5.6-2008",
+    "mod_id": "meteor-client",
+    "sha256": "edf83bffc6d611a29857f126b025f5fcc8fa662ec55920af20979d1fff3b9d98"
+  },
+  {
+    "filename": "mc-1.20.4__meteor-0.5.6.jar",
+    "minecraft_version": "1.20.4",
+    "meteor_version": "0.5.6",
+    "mod_id": "meteor-client",
+    "sha256": "0058cfe2b24392bb6d84a7cbae10c66ecadfcef47b31e7fa5ad0e8f0b4f71c99"
+  },
+  {
+    "filename": "mc-1.20.6__meteor-0.5.7-2079.jar",
+    "minecraft_version": "1.20.6",
+    "meteor_version": "0.5.7-2079",
+    "mod_id": "meteor-client",
+    "sha256": "b7f9d8814a1e14713416f718a91cd00d9f188c117b3d76341299ce16491d35ed"
+  },
+  {
+    "filename": "mc-1.20.6__meteor-0.5.7.jar",
+    "minecraft_version": "1.20.6",
+    "meteor_version": "0.5.7",
+    "mod_id": "meteor-client",
+    "sha256": "5de1f1d09664c1c8c60186a9385ae837b3d7c11e3ab919aa667eb7cf3f2ae3dc"
+  },
+  {
+    "filename": "mc-1.21.10__meteor-1.21.10-57.jar",
+    "minecraft_version": "1.21.10",
+    "meteor_version": "1.21.10-57",
+    "mod_id": "meteor-client",
+    "sha256": "402b1609c2f52c71faa0188e54a11358f74e8d9a6f14769cf4dfe35abd154944"
+  },
+  {
+    "filename": "mc-1.21.10__meteor-1.21.10-57.jar",
+    "minecraft_version": "1.21.10",
+    "meteor_version": "1.21.10-57",
+    "mod_id": "meteor-client",
+    "sha256": "402b1609c2f52c71faa0188e54a11358f74e8d9a6f14769cf4dfe35abd154944"
+  },
+  {
+    "filename": "mc-1.21.11__meteor-1.21.11-86.jar",
+    "minecraft_version": "1.21.11",
+    "meteor_version": "1.21.11-86",
+    "mod_id": "meteor-client",
+    "sha256": "93390cfdb1030e47f116357ba421c90a9b1ca4832b6551c2dec1ade5eeb42e71"
+  },
+  {
+    "filename": "mc-1.21.11__meteor-1.21.11-86.jar",
+    "minecraft_version": "1.21.11",
+    "meteor_version": "1.21.11-86",
+    "mod_id": "meteor-client",
+    "sha256": "93390cfdb1030e47f116357ba421c90a9b1ca4832b6551c2dec1ade5eeb42e71"
+  },
+  {
+    "filename": "mc-1.21.1__meteor-0.5.8-2119.jar",
+    "minecraft_version": "1.21.1",
+    "meteor_version": "0.5.8-2119",
+    "mod_id": "meteor-client",
+    "sha256": "71ae240337f50e778ee2a59371b3dc402a585a615718b18cc0a13469ca5a0f4c"
+  },
+  {
+    "filename": "mc-1.21.1__meteor-0.5.8.jar",
+    "minecraft_version": "1.21.1",
+    "meteor_version": "0.5.8",
+    "mod_id": "meteor-client",
+    "sha256": "090ad8f02273a67eca753ef37ccee2256e4dd3d715501ed75433ec8f57d7c5e9"
+  },
+  {
+    "filename": "mc-1.21.2-1.21.3__meteor-0.5.9.jar",
+    "minecraft_version": "1.21.2-1.21.3",
+    "meteor_version": "0.5.9",
+    "mod_id": "meteor-client",
+    "sha256": "55e81715d0f2d485eb36c9aa96a57a83a0236890b97c3ed352e57af12ed68001"
+  },
+  {
+    "filename": "mc-1.21.4__meteor-1.21.4-42.jar",
+    "minecraft_version": "1.21.4",
+    "meteor_version": "1.21.4-42",
+    "mod_id": "meteor-client",
+    "sha256": "fe166e4ccc27de18c6537acc72851f432b1a4850858f1e8cac4c80240a72b4ef"
+  },
+  {
+    "filename": "mc-1.21.4__meteor-1.21.4-42.jar",
+    "minecraft_version": "1.21.4",
+    "meteor_version": "1.21.4-42",
+    "mod_id": "meteor-client",
+    "sha256": "fe166e4ccc27de18c6537acc72851f432b1a4850858f1e8cac4c80240a72b4ef"
+  },
+  {
+    "filename": "mc-1.21.5__meteor-1.21.5-54.jar",
+    "minecraft_version": "1.21.5",
+    "meteor_version": "1.21.5-54",
+    "mod_id": "meteor-client",
+    "sha256": "309d3d61b7d3f9651c42c2f7dbaa41dabb3765fe1705bde263912bc712ebc44d"
+  },
+  {
+    "filename": "mc-1.21.5__meteor-1.21.5-54.jar",
+    "minecraft_version": "1.21.5",
+    "meteor_version": "1.21.5-54",
+    "mod_id": "meteor-client",
+    "sha256": "309d3d61b7d3f9651c42c2f7dbaa41dabb3765fe1705bde263912bc712ebc44d"
+  },
+  {
+    "filename": "mc-1.21.6__meteor-1.21.6-7.jar",
+    "minecraft_version": "1.21.6",
+    "meteor_version": "1.21.6-7",
+    "mod_id": "meteor-client",
+    "sha256": "0996f410abaaea5b78d8e03d79c2e18c940d47922d1269ccc8aa4a643c959328"
+  },
+  {
+    "filename": "mc-1.21.6__meteor-1.21.6-7.jar",
+    "minecraft_version": "1.21.6",
+    "meteor_version": "1.21.6-7",
+    "mod_id": "meteor-client",
+    "sha256": "0996f410abaaea5b78d8e03d79c2e18c940d47922d1269ccc8aa4a643c959328"
+  },
+  {
+    "filename": "mc-1.21.7__meteor-1.21.7-4.jar",
+    "minecraft_version": "1.21.7",
+    "meteor_version": "1.21.7-4",
+    "mod_id": "meteor-client",
+    "sha256": "a0993fdd76dc2ac421f5143267ca8f2393584ee4b1e5b779018a8201b427c655"
+  },
+  {
+    "filename": "mc-1.21.7__meteor-1.21.7-4.jar",
+    "minecraft_version": "1.21.7",
+    "meteor_version": "1.21.7-4",
+    "mod_id": "meteor-client",
+    "sha256": "a0993fdd76dc2ac421f5143267ca8f2393584ee4b1e5b779018a8201b427c655"
+  },
+  {
+    "filename": "mc-1.21.8__meteor-1.21.8-69.jar",
+    "minecraft_version": "1.21.8",
+    "meteor_version": "1.21.8-69",
+    "mod_id": "meteor-client",
+    "sha256": "7359e847a8af925ed2ef3559e66b879069770ece7feb3847519c23949ee2d8cc"
+  },
+  {
+    "filename": "mc-1.21.8__meteor-1.21.8-69.jar",
+    "minecraft_version": "1.21.8",
+    "meteor_version": "1.21.8-69",
+    "mod_id": "meteor-client",
+    "sha256": "7359e847a8af925ed2ef3559e66b879069770ece7feb3847519c23949ee2d8cc"
+  },
+  {
+    "filename": "mc-26.1.2__meteor-26.1.2-42.jar",
+    "minecraft_version": "26.1.2",
+    "meteor_version": "26.1.2-42",
+    "mod_id": "meteor-client",
+    "sha256": "abd124d2d6b65b9cdc54fbf230d31817693386df0678f2953cfc97cfd3e1581f"
+  },
+  {
+    "filename": "mc-26.1.2__meteor-26.1.2-42.jar",
+    "minecraft_version": "26.1.2",
+    "meteor_version": "26.1.2-42",
+    "mod_id": "meteor-client",
+    "sha256": "abd124d2d6b65b9cdc54fbf230d31817693386df0678f2953cfc97cfd3e1581f"
+  },
+  {
+    "filename": "mc-26.2__meteor-26.2-16.jar",
+    "minecraft_version": "26.2",
+    "meteor_version": "26.2-16",
+    "mod_id": "meteor-client",
+    "sha256": "5b53e0b0d7d4faa04dc7ba15ff60d622ef4eb2e608328d8b39d306707b2a72b9"
+  },
+  {
+    "filename": "mc-26.2__meteor-26.2-16.jar",
+    "minecraft_version": "26.2",
+    "meteor_version": "26.2-16",
+    "mod_id": "meteor-client",
+    "sha256": "5b53e0b0d7d4faa04dc7ba15ff60d622ef4eb2e608328d8b39d306707b2a72b9"
+  }
+]
