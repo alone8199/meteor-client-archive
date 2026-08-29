@@ -1,10 +1,10 @@
 # Meteor Client Archive
 
-This repository stores publicly obtainable Meteor Client JAR builds for Minecraft Java Edition. Historical files are under `historical-archive/`; official API downloads are under `official-api/`.
+This repository stores publicly obtainable Meteor Client JAR builds for Minecraft Java Edition. All retained files are under `historical-archive/`; `official-api/` is a temporary staging directory used only during the monthly update job and is removed after each successful run.
 
 The historical collection was sourced from the public Meteor Archive and includes the Meteor Client files present in its archive tree, including extra builds. On the first day of each month, GitHub Actions reads Meteor's official archive page and homepage, downloads the current API builds, moves them into `historical-archive/`, and removes the `official-api/` staging directory. The workflow can also be started manually.
 
-Files are named with the target Minecraft version first, followed by the original Meteor build name. This avoids overwriting builds when multiple Meteor releases target the same Minecraft version.
+Files use the unique format `mc-<minecraft-version>__<meteor-build>.jar`. This keeps the target Minecraft version first and avoids overwriting builds when multiple Meteor releases target the same Minecraft version.
 
 All files in the initial collection were checked as valid JAR/ZIP archives. See `meteor_complete_report.md` and `meteor_complete_results.json` for the initial inventory and SHA-256 values.
 

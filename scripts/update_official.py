@@ -46,7 +46,7 @@ for version in sorted(versions):
     data = fetch(API.format(version))
     if len(data) < 1000 or not data.startswith(b'PK'):
         raise RuntimeError(f'Invalid JAR response for {version}: {len(data)} bytes')
-    target = STAGING / f'meteor-client-{version}.jar'
+    target = STAGING / f'mc-{version}__meteor-api-{version}.jar'
     target.write_bytes(data)
     with ZipFile(target) as z:
         bad = z.testzip()
