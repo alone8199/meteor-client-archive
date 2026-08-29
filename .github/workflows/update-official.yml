@@ -1,6 +1,8 @@
 name: Update official Meteor builds
 
 on:
+  push:
+    branches: [master]
   schedule:
     - cron: '17 3 * * 1'
   workflow_dispatch:
