@@ -70,10 +70,10 @@
     },
     {
       "minecraft_version": "26.2",
-      "meteor_version": "26.2-16",
-      "filename": "historical-archive/mc-26.2__meteor-26.2-16.jar",
-      "bytes": 5057217,
-      "sha256": "5b53e0b0d7d4faa04dc7ba15ff60d622ef4eb2e608328d8b39d306707b2a72b9",
+      "meteor_version": "26.2-17",
+      "filename": "historical-archive/mc-26.2__meteor-26.2-17.jar",
+      "bytes": 5057149,
+      "sha256": "2a8b4beee7cc8402234de09bd6ed2a68ae42c35c88147604ca737000da316530",
       "source": "https://meteorclient.com/api/download?version=26.2"
     }
   ]
