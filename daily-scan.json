@@ -1,5 +1,5 @@
 {
-  "scanned_at": "2026-09-28T09:55:42.671326+00:00",
+  "scanned_at": "2026-09-29T09:56:43.804882+00:00",
   "sources": [
     "https://meteorclient.com/",
     "https://meteorclient.com/archive"
@@ -74,8 +74,8 @@
       "minecraft_version": "26.2",
       "api_url": "https://meteorclient.com/api/download?version=26.2",
       "available": true,
-      "bytes": 5061388,
-      "sha256": "a14a622f236c60dcb7e93157dfdce0ea17b33779b695411c818111f80872a48d",
+      "bytes": 5061173,
+      "sha256": "54f40de57341a8b7d7909973c485ff7b8e834e7f3ee85637578ca4ee347253b5",
       "content_type": "application/java-archive"
     }
   ]
